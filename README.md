@@ -72,8 +72,8 @@ projects in a clean and responsive layout.
 ## 📬 Contact
 
 -   **Email:** marlenedavids@yahoo.com\
--   **LinkedIn:** (link inside site)\
--   **GitHub:** (link inside site)
+-   **LinkedIn:** (https://www.linkedin.com/in/marlene-davids-0b2695384/)\
+-   **GitHub:** (https://github.com/marls79)
 
 
 
