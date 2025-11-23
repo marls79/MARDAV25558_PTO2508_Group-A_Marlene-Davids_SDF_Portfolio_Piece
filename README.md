@@ -11,13 +11,13 @@ projects in a clean and responsive layout.
 
 ## ✨ Features
 
--   Responsive layout\
--   Profile section with image and bio\
--   Proficiency skill bars\
--   Skill tags display\
--   Project grid\
--   Education and tools section\
--   Experience section\
+-   Responsive layout
+-   Profile section with image and bio
+-   Proficiency skill bars
+-   Skill tags display
+-   Project grid
+-   Education and tools section
+-   Experience section
 -   Footer with contact and social links
 
 
@@ -44,27 +44,27 @@ projects in a clean and responsive layout.
 
 ## 🚀 How to Run the Project
 
-1.  Download the project files\
-2.  Place them in the same folder\
-3.  Open `index.html` in any browser\
+1.  Download the project files
+2.  Place them in the same folder
+3.  Open `index.html` in any browser
 4.  Customize as needed
 
 
 
 ## 📚 Steps Completed During Development
 
-1.  Built the base HTML structure\
-2.  Added a global CSS reset\
-3.  Styled the body and main container\
-4.  Created the profile card layout\
-5.  Added proficiency skill bars\
-6.  Added skills tag section\
-7.  Built a project grid layout\
-8.  Added education and tools sections\
-9.  Added experience section\
-10. Styled and built the footer\
-11. Implemented mobile responsiveness\
-12. Cleaned and organized CSS\
+1.  Built the base HTML structure
+2.  Added a global CSS reset
+3.  Styled the body and main container
+4.  Created the profile card layout
+5.  Added proficiency skill bars
+6.  Added skills tag section
+7.  Built a project grid layout
+8.  Added education and tools sections
+9.  Added experience section
+10. Styled and built the footer
+11. Implemented mobile responsiveness
+12. Cleaned and organized CSS
 13. Created documentation & README
 
  
