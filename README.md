@@ -7,7 +7,7 @@ This project is a personal portfolio website created using **HTML** and
 It showcases skills, experience, education, tools, and completed
 projects in a clean and responsive layout.
 
-------------------------------------------------------------------------
+
 
 ## ✨ Features
 
@@ -20,7 +20,7 @@ projects in a clean and responsive layout.
 -   Experience section\
 -   Footer with contact and social links
 
-------------------------------------------------------------------------
+
 
 ## 🧱 Project Structure
 
@@ -30,7 +30,7 @@ projects in a clean and responsive layout.
     └── images/
           └── profile image.jpg
 
-------------------------------------------------------------------------
+
 
 ## 🛠️ Technologies Used
 
@@ -40,7 +40,7 @@ projects in a clean and responsive layout.
 -   **Grid**
 -   **SVG Icons**
 
-------------------------------------------------------------------------
+
 
 ## 🚀 How to Run the Project
 
@@ -49,7 +49,7 @@ projects in a clean and responsive layout.
 3.  Open `index.html` in any browser\
 4.  Customize as needed
 
-------------------------------------------------------------------------
+
 
 ## 📚 Steps Completed During Development
 
@@ -67,7 +67,7 @@ projects in a clean and responsive layout.
 12. Cleaned and organized CSS\
 13. Created documentation & README
 
-------------------------------------------------------------------------
+ 
 
 ## 📬 Contact
 
@@ -75,6 +75,5 @@ projects in a clean and responsive layout.
 -   **LinkedIn:** (link inside site)\
 -   **GitHub:** (link inside site)
 
-------------------------------------------------------------------------
 
 
