@@ -77,6 +77,4 @@ projects in a clean and responsive layout.
 
 ------------------------------------------------------------------------
 
-## 📄 License
 
-This project is open for personal use and improvement.
